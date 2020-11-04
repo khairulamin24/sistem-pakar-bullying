@@ -1,2 +1,1 @@
-# sistem-pakar-bulling
- tahun 2018
+Prinsip Analytic Network Process (ANP) akan memeriksa dan menemukan hubungan antar dimensi-dimensi bullying di tempat kerja menurut persepsi karyawan berdasarkan gender untuk dievaluasi secara objektif. Cara ini masih langka di bidang psikologi yang telah didominasi oleh metode statistik tradisional, sehingga penelitian ini akan berguna untuk memperluas penelitian teknologi informasi tentang sistem pendukung keputusan berbasis analitik dalam penyusunan alat ukur psikologi. 
