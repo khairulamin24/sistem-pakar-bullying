@@ -1,0 +1,56 @@
+body { 
+    background: url('foto1.png');
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+.kepala{
+    background: url('header.png');
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+tr th font h1.h1{
+    text-align: center;
+}
+hr.GarisAtas{
+    width: 50% auto;
+    border: 5px solid gray;
+}
+div.jumbotron{
+    border: 2px;
+    color: black;
+    font-family: auto;
+}
+div.textAtas{
+    
+    border: inset gray;
+    margin: none;
+}
+div.bagisnTengahn{
+     border: 5px inset gray;
+}
+.table td, .table th {
+    
+    padding: none;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+    color: black;
+}
+.table thead th {
+    text-align: center;
+    vertical-align: bottom;
+    border-bottom: 9px solid #dee2e6;
+    font-size: 30px;
+}
+.radioDisable {
+    position: relative;
+    display: block;
+    text-align: left;
+    color: red;
+}
+:hover div.pesan{
+    text-align: justify;
+}
